@@ -1,0 +1,54 @@
+body {
+  padding: 100px;
+  transition: all 0.3s linear;
+}
+
+.form-area {
+  margin-top: 50px;
+  box-shadow: 5px 5px 10px darkgray;
+  padding: 40px;
+  border-radius: 10px;
+}
+.form-area h2 {
+  margin-bottom: 20px;
+}
+.btn-success {
+  font-size: 20px;
+}
+.accounts-header {
+  padding: 50px 20px;
+}
+.deposit {
+  background-color: #5e4fc7;
+}
+.withdraw {
+  background-color: #f09670;
+}
+.balance {
+  background-color: #ef9b01;
+}
+#accounts-info {
+  display: none;
+}
+.accounts-info-style {
+  width: 30%;
+  color: white;
+  padding: 15px 0 20px 25px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  margin-right: 2%;
+}
+.accounts-info-style h1 {
+  font-size: 20px;
+}
+.accounts-info-style h2 {
+  font-size: 50px;
+}
+
+.account-form-style {
+  width: 46%;
+  padding: 30px 60px;
+  box-shadow: 5px 5px 10px darkgray;
+  border-radius: 8px;
+  margin: 2%;
+}
